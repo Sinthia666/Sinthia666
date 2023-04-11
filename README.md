@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanjela Akter</h1>
 <h3 align="center">A passionate Programmer from Bangladesh</h3>
 
-
+ <img align="right" alt="My Image" width ="400" src="https://github.com/Sinthia666/Sinthia666/blob/main/github.gif" >
 
 - 📫 How to reach me **sinthia.rupa71@gmail.com**
 
