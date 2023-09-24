@@ -24,7 +24,7 @@ Python | FastAPI | PostgreSQL | JWT Auth | Pandas | Pytest
 
 Git | LaTeX | Linux
 
-## My Handles
+
 
 ![Profile views](https://komarev.com/ghpvc/?username=TwistNemo)
 
